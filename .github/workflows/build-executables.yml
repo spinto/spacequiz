@@ -25,9 +25,9 @@ jobs:
       with:
         python-version: '3.13'
 
-    - name: Install pkinter (on ubuntu)
+    - name: Install pkinter (Ubuntu)
       if: matrix.os == 'ubuntu-latest'
-      run: apt-get install -y python3-tk
+      run: sudo apt-get install -y python3-tk
       
     - name: Install PyInstaller
       run: |
