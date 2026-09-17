@@ -17,19 +17,17 @@ jobs:
       MAIN_PY_FILE: 'spacequiz.py'
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
+    - name: Checkout code and setup python
+      uses: actions/checkout@v7
+      uses: actions/setup-python@v7
       with:
-        python-version: 3.10.x
+        python-version: '3.13'
+        cache: 'pip'
 
-    - name: Install Python dependencies
-      run: |
-        pip install tkinter
-      working-directory: ./
-
+    - name: Install pkinter (on ubuntu)
+      if: matrix.os == 'ubuntu-latest'
+      run: apt-get install -y python3-tk
+      
     - name: Install PyInstaller
       run: |
         pip install pyinstaller
