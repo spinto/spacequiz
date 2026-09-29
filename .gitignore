@@ -1,3 +1,6 @@
 WPy64*
 *-executables.zip
 spacequiz_*
+spacequiz.spec
+build
+dist
