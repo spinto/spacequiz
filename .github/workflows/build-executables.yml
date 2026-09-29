@@ -36,7 +36,7 @@ jobs:
 
     - name: Build executable
       run: |
-        pyinstaller --onefile ${{ env.MAIN_PY_FILE }}
+        pyinstaller --add-data="*.json" --onefile ${{ env.MAIN_PY_FILE }}
       working-directory: ./
 
     - name: Create Artifact (Windows)
