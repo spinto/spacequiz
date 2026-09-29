@@ -1,0 +1,22 @@
+{
+  "subtitle": "Von der Erdbeobachtung bis ins äußere Sonnensystem",
+  "questions": "FRAGEN",
+  "start": "MISSION STARTEN",
+  "controls": "F11: Vollbild   •   Esc: Vollbild verlassen   •   R: Neustart",
+  "ladder": "GEWINNLEITER",
+  "question": "Frage {n} von {total}  •  {prize}",
+  "correct_answers": "Richtige Antworten: {correct}   •   Aktueller Punktestand: {score}",
+  "correct": "RICHTIG!",
+  "wrong": "DIESMAL NICHT",
+  "answer_is": "Die Antwort ist {letter}: {answer}",
+  "fun_fact": "WISSENSWERT",
+  "final": "ENDERGEBNIS ANZEIGEN",
+  "next": "NÄCHSTE FRAGE",
+  "complete": "MISSION ABGESCHLOSSEN",
+  "correct_label": "RICHTIGE ANTWORTEN",
+  "score_label": "QUIZ-PUNKTZAHL",
+  "again": "NOCH EINMAL",
+  "exit": "BEENDEN",
+  "thanks": "Danke, dass du mit der ESA Erde und Weltraum erkundet hast!",
+  "choose": "SPRACHE AUSWÄHLEN"
+}

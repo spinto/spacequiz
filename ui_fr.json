@@ -1,0 +1,22 @@
+{
+  "subtitle": "De l’observation de la Terre aux confins du Système solaire",
+  "questions": "QUESTIONS",
+  "start": "LANCER LA MISSION",
+  "controls": "F11 : plein écran   •   Échap : quitter le plein écran   •   R : recommencer",
+  "ladder": "ÉCHELLE DES GAINS",
+  "question": "Question {n} sur {total}  •  {prize}",
+  "correct_answers": "Bonnes réponses : {correct}   •   Score actuel : {score}",
+  "correct": "CORRECT !",
+  "wrong": "PAS CETTE FOIS",
+  "answer_is": "La réponse est {letter} : {answer}",
+  "fun_fact": "LE SAVIEZ-VOUS ?",
+  "final": "VOIR LE RÉSULTAT FINAL",
+  "next": "QUESTION SUIVANTE",
+  "complete": "MISSION ACCOMPLIE",
+  "correct_label": "BONNES RÉPONSES",
+  "score_label": "SCORE DU QUIZ",
+  "again": "REJOUER",
+  "exit": "QUITTER",
+  "thanks": "Merci d’avoir exploré la Terre et l’espace avec l’ESA !",
+  "choose": "CHOISISSEZ LA LANGUE"
+}

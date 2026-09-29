@@ -1,0 +1,22 @@
+{
+  "subtitle": "From Earth observation to the outer Solar System",
+  "questions": "QUESTIONS",
+  "start": "START THE MISSION",
+  "controls": "F11: full screen   •   Esc: exit full screen   •   R: restart",
+  "ladder": "PRIZE LADDER",
+  "question": "Question {n} of {total}  •  {prize}",
+  "correct_answers": "Correct answers: {correct}   •   Current score: {score}",
+  "correct": "CORRECT!",
+  "wrong": "NOT THIS TIME",
+  "answer_is": "The answer is {letter}: {answer}",
+  "fun_fact": "FUN FACT",
+  "final": "SEE FINAL RESULT",
+  "next": "NEXT QUESTION",
+  "complete": "MISSION COMPLETE",
+  "correct_label": "CORRECT ANSWERS",
+  "score_label": "QUIZ SCORE",
+  "again": "PLAY AGAIN",
+  "exit": "EXIT",
+  "thanks": "Thank you for exploring Earth and space with ESA!",
+  "choose": "SELECT YOUR LANGUAGE"
+}

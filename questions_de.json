@@ -1,0 +1,682 @@
+{
+    "€100": [
+        {
+            "question": "Wofür steht ESA?",
+            "answers": [
+                "Europäische Wissenschaftsallianz",
+                "Europäische Satellitenagentur",
+                "Europäische Weltraumorganisation",
+                "Europäische Weltraumvereinigung"
+            ],
+            "correct": 2,
+            "fact": "Die ESA bringt europäische Länder zusammen, um den Weltraum zu erforschen und Raumfahrttechnologie zum Nutzen der Menschen auf der Erde einzusetzen."
+        },
+        {
+            "question": "Was erforscht und erkundet die ESA unter anderem hauptsächlich?",
+            "answers": [
+                "Die Ozeane",
+                "Den Weltraum und die Erde aus dem Weltraum",
+                "Das Erdinnere",
+                "Alles oben Genannte"
+            ],
+            "correct": 3,
+            "fact": "Die ESA entwickelt und betreibt Weltraummissionen, die die Erde einschließlich ihrer unterirdischen Zusammensetzung und ihrer inneren Strukturen, das Sonnensystem und das weitere Universum untersuchen."
+        },
+        {
+            "question": "Was ist der Hauptzweck der ESA?",
+            "answers": [
+                "Raumfahrtforschung, -technologie und -anwendungen zu fördern",
+                "Flugzeuge zu bauen",
+                "Flughäfen zu betreiben",
+                "Wettervorhersagen bereitzustellen"
+            ],
+            "correct": 0,
+            "fact": "Der Zweck der ESA besteht darin, ausschließlich für friedliche Zwecke die Zusammenarbeit zwischen europäischen Staaten in der Weltraumforschung und -technologie zu ermöglichen und zu fördern."
+        },
+        {
+            "question": "Was ist die ESA?",
+            "answers": [
+                "Eine Universität",
+                "Eine europäische Organisation",
+                "Ein privates Unternehmen",
+                "Eine Fluggesellschaft"
+            ],
+            "correct": 1,
+            "fact": "ESA steht für European Space Agency (Europäische Weltraumorganisation), eine internationale Organisation, die die Entwicklung der europäischen Raumfahrtkapazitäten gestaltet und sicherstellt, dass Investitionen in den Weltraum den Bürgerinnen und Bürgern Europas und der Welt weiterhin zugutekommen."
+        },
+        {
+            "question": "Arbeitet die ESA mit Astronauten zusammen?",
+            "answers": [
+                "Ja, mit ESA-Astronauten",
+                "Nein, aber sie arbeitet mit Piloten zusammen",
+                "Ja, aber nur mit NASA-Astronauten",
+                "Nein, sie arbeitet nur mit Wissenschaftlern auf der Erde zusammen"
+            ],
+            "correct": 0,
+            "fact": "Die ESA bildet ein Team von Astronauten aus verschiedenen europäischen Ländern aus und hält es bereit, um den Weltraum zu erforschen."
+        },
+        {
+            "question": "Welches ist ein Arbeitsbereich der ESA?",
+            "answers": [
+                "Raumfahrttechnologie",
+                "Modedesign",
+                "Lebensmittelproduktion",
+                "Straßenverkehr"
+            ],
+            "correct": 0,
+            "fact": "Der Zweck der ESA besteht darin, ausschließlich für friedliche Zwecke die Zusammenarbeit zwischen europäischen Staaten in der Weltraumforschung und -technologie zu ermöglichen und zu fördern."
+        }
+    ],
+    "€200": [
+        {
+            "question": "Welcher Planet ist als „Roter Planet“ bekannt?",
+            "answers": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Merkur"
+            ],
+            "correct": 1,
+            "fact": "Der Mars erscheint rötlich, weil Eisenminerale in seinem Boden oxidiert sind – ein Prozess, der dem Rosten ähnelt."
+        },
+        {
+            "question": "Welcher Planet ist der größte in unserem Sonnensystem?",
+            "answers": [
+                "Erde",
+                "Saturn",
+                "Jupiter",
+                "Neptun"
+            ],
+            "correct": 2,
+            "fact": "Jupiter ist der größte Planet im Sonnensystem und hat einen Durchmesser, der mehr als elfmal so groß ist wie der der Erde."
+        },
+        {
+            "question": "Welcher Planet ist für sein ausgeprägtes Ringsystem bekannt?",
+            "answers": [
+                "Mars",
+                "Saturn",
+                "Venus",
+                "Merkur"
+            ],
+            "correct": 1,
+            "fact": "Die Ringe des Saturn bestehen hauptsächlich aus unzähligen Eis- und Gesteinsstücken."
+        },
+        {
+            "question": "Welcher Planet ist der Sonne am nächsten?",
+            "answers": [
+                "Venus",
+                "Erde",
+                "Merkur",
+                "Mars"
+            ],
+            "correct": 2,
+            "fact": "Merkur ist der innerste Planet und vollendet einen Umlauf um die Sonne in etwa 88 Erdentagen."
+        },
+        {
+            "question": "Welcher Planet wird wegen seiner ähnlichen Größe manchmal als Schwesterplanet der Erde bezeichnet?",
+            "answers": [
+                "Jupiter",
+                "Venus",
+                "Mars",
+                "Neptun"
+            ],
+            "correct": 1,
+            "fact": "Die Venus ähnelt der Erde in Größe und Zusammensetzung, obwohl sich die Bedingungen auf ihrer Oberfläche stark unterscheiden."
+        },
+        {
+            "question": "Wie heißt die Galaxie, die unser Sonnensystem enthält?",
+            "answers": [
+                "Andromeda",
+                "Die Milchstraße",
+                "Whirlpool",
+                "Sombrero"
+            ],
+            "correct": 1,
+            "fact": "Unser Sonnensystem befindet sich in der Milchstraße, einer Balkenspiralgalaxie mit Hunderten Milliarden Sternen."
+        }
+    ],
+    "€500": [
+        {
+            "question": "Wofür werden Erdbeobachtungssatelliten hauptsächlich eingesetzt?",
+            "answers": [
+                "Nur für Wettervorhersagen",
+                "Zur Überwachung der Erde und von Umweltveränderungen",
+                "Nur für die Ausstrahlung von Fernsehen",
+                "Zum Aufnehmen von Urlaubsfotos"
+            ],
+            "correct": 1,
+            "fact": "Satellitendaten können helfen, Wälder, Meereis, Luftqualität, Überschwemmungen, Brände, Nutzpflanzen und viele andere Veränderungen auf unserem Planeten zu überwachen."
+        },
+        {
+            "question": "Was können Satelliten Wissenschaftlern helfen, über große Gebiete zu überwachen?",
+            "answers": [
+                "Veränderungen in Wäldern",
+                "Nur einzelne Häuser",
+                "Nur unterirdische Höhlen",
+                "Nichts auf der Erdoberfläche"
+            ],
+            "correct": 0,
+            "fact": "Erdbeobachtungssatelliten können große Gebiete wiederholt erfassen und so dabei helfen, Veränderungen in Wäldern, der Landwirtschaft und Ökosystemen zu verfolgen."
+        },
+        {
+            "question": "Warum sind Satelliten nützlich, um abgelegene Teile der Erde zu beobachten?",
+            "answers": [
+                "Sie können große Gebiete aus dem Orbit beobachten",
+                "Sie benötigen niemals Instrumente",
+                "Sie funktionieren nur über Städten",
+                "Sie ersetzen alle Messungen am Boden"
+            ],
+            "correct": 0,
+            "fact": "Satelliten können wiederholte Beobachtungen von Orten liefern, die vom Boden aus schwer oder gefährlich zu erreichen sind."
+        },
+        {
+            "question": "Welches Ereignis können Erdbeobachtungssatelliten bei der Überwachung unterstützen?",
+            "answers": [
+                "Überschwemmungen",
+                "Nur Sonnenfinsternisse",
+                "Nur Meteorschauer",
+                "Nur Raketenstarts"
+            ],
+            "correct": 0,
+            "fact": "Satellitenbeobachtungen können dabei helfen, überschwemmte Gebiete zu kartieren und die Überwachung vor, während und nach großen Überschwemmungen zu unterstützen."
+        },
+        {
+            "question": "Was können Satellitenbeobachtungen im Ozean überwachen?",
+            "answers": [
+                "Die Ausdehnung des Meereises",
+                "Nur Fische in einzelnen Netzen",
+                "Nur Schiffe in Häfen",
+                "Nichts"
+            ],
+            "correct": 0,
+            "fact": "Satellitenbeobachtungen können Meereis und viele andere großräumige Veränderungen im Ozean und an den Küsten verfolgen."
+        },
+        {
+            "question": "Was ist ein Vorteil der Beobachtung der Erde aus dem Weltraum?",
+            "answers": [
+                "Globale oder regionale Abdeckung",
+                "Es ist keine Datenverarbeitung erforderlich",
+                "Wolken können Beobachtungen niemals beeinträchtigen",
+                "Jeder Satellit sieht alles"
+            ],
+            "correct": 0,
+            "fact": "Verschiedene Satelliteninstrumente bieten eine großflächige Abdeckung und wiederholte Messungen, die Beobachtungen vom Boden ergänzen."
+        }
+    ],
+    "€1,200": [
+        {
+            "question": "Wie heißt die europäische Familie von Erdbeobachtungsmissionen, die vom Copernicus-Programm genutzt wird?",
+            "answers": [
+                "Galileo",
+                "Sentinel",
+                "Voyager",
+                "Kepler"
+            ],
+            "correct": 1,
+            "fact": "Die Sentinel-Missionen wirken wie verschiedene Augenpaare. Einige nutzen Radar, während andere Land, Ozeane oder die Atmosphäre beobachten."
+        },
+        {
+            "question": "Welche Copernicus-Sentinel-Mission nutzt Radar zur Beobachtung der Erde?",
+            "answers": [
+                "Sentinel-1",
+                "Sentinel-6",
+                "Sentinel-5P",
+                "Sentinel-2"
+            ],
+            "correct": 0,
+            "fact": "Sentinel-1 nutzt Radar und kann dadurch die Erdoberfläche bei Tag und Nacht sowie durch Wolken hindurch beobachten."
+        },
+        {
+            "question": "Welche Sentinel-Mission ist besonders für detaillierte Bilder der Landoberfläche bekannt?",
+            "answers": [
+                "Sentinel-2",
+                "Sentinel-3",
+                "Sentinel-5P",
+                "Sentinel-6"
+            ],
+            "correct": 0,
+            "fact": "Sentinel-2 liefert hochauflösende optische Bilder, die sich zur Untersuchung von Vegetation, Landbedeckung und vielen anderen Oberflächenmerkmalen eignen."
+        },
+        {
+            "question": "Was ist Copernicus?",
+            "answers": [
+                "Europas Erdbeobachtungsprogramm",
+                "Ein Marsrover",
+                "Eine Art Raketentriebwerk",
+                "Ein Sternenkatalog"
+            ],
+            "correct": 0,
+            "fact": "Copernicus ist das Erdbeobachtungsprogramm der Europäischen Union, das Satelliten und andere Quellen nutzt, um Umweltinformationen bereitzustellen."
+        },
+        {
+            "question": "Warum können Radarsatelliten bei bewölktem Wetter nützlich sein?",
+            "answers": [
+                "Radar kann unter vielen Bedingungen durch Wolken hindurch beobachten",
+                "Radar verwandelt Wolken in klaren Himmel",
+                "Radar funktioniert nur in Innenräumen",
+                "Radar kann die Erdoberfläche nicht erkennen"
+            ],
+            "correct": 0,
+            "fact": "Radar mit synthetischer Apertur kann unabhängig vom Tageslicht nützliche Beobachtungen erfassen und häufig durch Wolken hindurchsehen."
+        },
+        {
+            "question": "Welche Art von Informationen können Sentinel-Missionen liefern?",
+            "answers": [
+                "Beobachtungen von Land, Ozeanen und Atmosphäre",
+                "Nur Fotos von Astronauten",
+                "Nur Radiosendungen",
+                "Nur Beobachtungen des Mondes"
+            ],
+            "correct": 0,
+            "fact": "Verschiedene Sentinel-Missionen sind für unterschiedliche Umweltmessungen ausgelegt und erfassen Land, Ozeane und die Atmosphäre."
+        }
+    ],
+    "€2,000": [
+        {
+            "question": "Welche ESA-Mission setzte 2014 die Landeeinheit Philae auf einem Kometen ab?",
+            "answers": [
+                "Gaia",
+                "Rosetta",
+                "Euclid",
+                "Solar Orbiter"
+            ],
+            "correct": 1,
+            "fact": "Philae prallte nach seiner ersten Landung auf dem Kometen 67P ab. Aufgrund der extrem schwachen Gravitation des Kometen wurde selbst ein sanfter Sprung zu einer dramatischen Reise."
+        },
+        {
+            "question": "Wie hieß der Komet, den die ESA-Mission Rosetta besuchte?",
+            "answers": [
+                "Halley",
+                "67P/Churyumov-Gerasimenko",
+                "Hale-Bopp",
+                "Shoemaker-Levy 9"
+            ],
+            "correct": 1,
+            "fact": "Rosetta reiste zum Kometen 67P/Churyumov-Gerasimenko, untersuchte ihn und umkreiste ihn mehr als zwei Jahre lang."
+        },
+        {
+            "question": "Was war Philae?",
+            "answers": [
+                "Eine Landeeinheit",
+                "Ein Teleskop",
+                "Eine Rakete",
+                "Ein Kommunikationssatellit"
+            ],
+            "correct": 0,
+            "fact": "Philae war eine kleine robotische Landeeinheit, die von der Raumsonde Rosetta der ESA zum Kometen 67P gebracht wurde."
+        },
+        {
+            "question": "Was macht die Landung auf einem kleinen Kometen besonders schwierig?",
+            "answers": [
+                "Sehr schwache Gravitation",
+                "Zu viel Sauerstoff",
+                "Eine dichte Atmosphäre",
+                "Starke Meeresströmungen"
+            ],
+            "correct": 0,
+            "fact": "Ein kleiner Komet hat eine extrem schwache Gravitation, wodurch es für eine Landeeinheit schwierig ist, an der Oberfläche haften zu bleiben."
+        },
+        {
+            "question": "Wie viele ESA-Astronauten flogen von September 2021 bis September 2026 ins All?",
+            "answers": [
+                "6",
+                "20",
+                "1",
+                "Keine"
+            ],
+            "correct": 0,
+            "fact": "Seit der Gründung der ESA sind insgesamt 27 einzelne Astronauten aus verschiedenen europäischen Ländern ins All geflogen."
+        },
+        {
+            "question": "Was war ein wichtiges wissenschaftliches Ziel von Rosetta?",
+            "answers": [
+                "Einen Kometen detailliert zu untersuchen",
+                "Menschen auf dem Mars zu landen",
+                "Die Ozeane der Erde zu kartieren",
+                "Die Pole der Sonne zu beobachten"
+            ],
+            "correct": 0,
+            "fact": "Rosetta untersuchte die Zusammensetzung, Struktur und Aktivität des Kometen 67P, um unser Verständnis von Kometen und des frühen Sonnensystems zu verbessern."
+        }
+    ],
+    "€4,000": [
+        {
+            "question": "Die Gaia-Mission der ESA wurde entwickelt, um eine außergewöhnlich präzise Karte wovon zu erstellen?",
+            "answers": [
+                "Der Ozeane der Erde",
+                "Der Krater des Mondes",
+                "Der Milchstraße",
+                "Der Vulkane des Mars"
+            ],
+            "correct": 2,
+            "fact": "Durch die Messung der Positionen und Bewegungen von Sternen hilft Gaia Astronomen, die Geschichte und Struktur unserer Galaxie zu untersuchen."
+        },
+        {
+            "question": "Was misst Gaia bei Sternen mit sehr hoher Präzision?",
+            "answers": [
+                "Positionen und Bewegungen",
+                "Ihren Geruch",
+                "Nur ihre Oberflächentemperatur",
+                "Ihre Wettervorhersagen"
+            ],
+            "correct": 0,
+            "fact": "Gaias astrometrische Messungen zeigen, wo Sterne in der Milchstraße positioniert sind und wie sie sich bewegen."
+        },
+        {
+            "question": "Welche Art von Objekten erfasst Gaia hauptsächlich?",
+            "answers": [
+                "Sterne",
+                "Vulkane",
+                "Wolken",
+                "Ozeane"
+            ],
+            "correct": 0,
+            "fact": "Gaia wurde entwickelt, um eine enorme Anzahl von Sternen zu erfassen und ein präzises dreidimensionales Bild der Milchstraße zu erstellen."
+        },
+        {
+            "question": "Warum sind Sternbewegungen für Astronomen nützlich?",
+            "answers": [
+                "Sie liefern Informationen über die Struktur und Geschichte der Milchstraße",
+                "Sie sagen das Wetter auf der Erde voraus",
+                "Sie steuern Raumfahrzeuge direkt",
+                "Sie erzeugen neue Sterne"
+            ],
+            "correct": 0,
+            "fact": "Die Positionen und Bewegungen von Sternen enthalten Hinweise darauf, wie unsere Galaxie entstanden ist und sich entwickelt hat."
+        },
+        {
+            "question": "Welchen Teil des elektromagnetischen Spektrums nutzt Gaia für seine wichtigsten astrometrischen Messungen?",
+            "answers": [
+                "Sichtbares Licht",
+                "Nur Radiowellen",
+                "Nur Röntgenstrahlung",
+                "Nur Gammastrahlung"
+            ],
+            "correct": 0,
+            "fact": "Gaia arbeitet hauptsächlich als optische Astrometrie-Mission und misst die Positionen und Bewegungen von Sternen mit außergewöhnlicher Präzision."
+        },
+        {
+            "question": "Was können Wissenschaftler mithilfe einer detaillierten Karte der Milchstraße untersuchen?",
+            "answers": [
+                "Die Entstehung und Entwicklung der Galaxie",
+                "Das genaue Wetter von morgen",
+                "Gezeiten auf dem Jupiter",
+                "Die Farbe der Wolken der Erde"
+            ],
+            "correct": 0,
+            "fact": "Eine präzise Sternkarte hilft Forschern, die Struktur, Dynamik und Geschichte unserer Galaxie zu rekonstruieren."
+        }
+    ],
+    "€8,000": [
+        {
+            "question": "Welche von der ESA geleitete Mission untersucht die Sonne und soll ihre Polarregionen beobachten?",
+            "answers": [
+                "Solar Orbiter",
+                "JUICE",
+                "Hera",
+                "BepiColombo"
+            ],
+            "correct": 0,
+            "fact": "Die Pole der Sonne sind von der Erde aus schwer zu sehen. Solar Orbiter nutzt Vorbeiflüge an Planeten, um seine Umlaufbahn zu neigen und einen besseren Blick zu erhalten."
+        },
+        {
+            "question": "Was soll Solar Orbiter untersuchen?",
+            "answers": [
+                "Die Sonne",
+                "Die Monde des Jupiter",
+                "Nur Kometen",
+                "Nur die Gletscher der Erde"
+            ],
+            "correct": 0,
+            "fact": "Solar Orbiter untersucht die Sonne und den Sonnenwind und hilft Wissenschaftlern zu verstehen, wie unser Stern funktioniert."
+        },
+        {
+            "question": "Warum nutzt Solar Orbiter Vorbeiflüge an Planeten?",
+            "answers": [
+                "Um seine Umlaufbahn zu verändern und zu neigen",
+                "Um mit Sonnenlicht aufzutanken",
+                "Um auf einem Planeten zu landen",
+                "Um Gestein von der Erde zu sammeln"
+            ],
+            "correct": 0,
+            "fact": "Gravitationsmanöver an Planeten können die Flugbahn eines Raumfahrzeugs verändern und Solar Orbiter dabei helfen, eine Umlaufbahn mit höherer Neigung zu erreichen."
+        },
+        {
+            "question": "Was ist der Sonnenwind?",
+            "answers": [
+                "Ein Strom geladener Teilchen von der Sonne",
+                "Wind in der Erdatmosphäre",
+                "Ein Wasserstrom auf dem Mars",
+                "Ein Ring um den Saturn"
+            ],
+            "correct": 0,
+            "fact": "Der Sonnenwind ist ein kontinuierlicher Strom geladener Teilchen, die aus der äußeren Atmosphäre der Sonne entweichen."
+        },
+        {
+            "question": "Welche Eigenschaft der Sonne ist besonders wichtig, um ihre magnetische Aktivität zu verstehen?",
+            "answers": [
+                "Ihr Magnetfeld",
+                "Ihre Ringe",
+                "Ihre Ozeane",
+                "Ihre feste Oberfläche"
+            ],
+            "correct": 0,
+            "fact": "Das Magnetfeld der Sonne treibt viele Formen solaren Aktivität an, darunter Sonnenflecken und Sonneneruptionen."
+        },
+        {
+            "question": "Was macht die Beobachtung der Polarregionen der Sonne von der Erde aus schwierig?",
+            "answers": [
+                "Die Beobachtungsgeometrie",
+                "Der Mond verdeckt sie jeden Tag",
+                "Die Sonne hat keine Pole",
+                "Sie liegen hinter dem Saturn"
+            ],
+            "correct": 0,
+            "fact": "Von der üblichen Perspektive der Erde aus werden die Pole der Sonne in einem sehr flachen Winkel gesehen, sodass ein Raumfahrzeug mit geneigter Umlaufbahn eine wertvolle neue Perspektive bieten kann."
+        }
+    ],
+    "€16,000": [
+        {
+            "question": "Was können Copernicus-Sentinel-Satelliten in der Antarktis erkennen?",
+            "answers": [
+                "Dinosaurier, die unter dem Eis laufen",
+                "Veränderungen der Dicke und Bewegung des Eises",
+                "Außerirdische Funksignale",
+                "Vulkane auf dem Mars"
+            ],
+            "correct": 1,
+            "fact": "Radarsatelliten können Eis auch durch Wolken und während der langen Polarnacht beobachten, wodurch sie wertvolle Instrumente zur Verfolgung von Veränderungen sind."
+        },
+        {
+            "question": "Warum ist Radar für die Beobachtung der Antarktis besonders nützlich?",
+            "answers": [
+                "Es kann ohne Sonnenlicht und durch Wolken hindurch arbeiten",
+                "Es schmilzt das Eis",
+                "Es funktioniert nur mittags",
+                "Es benötigt jederzeit einen wolkenlosen Himmel"
+            ],
+            "correct": 0,
+            "fact": "Radarinstrumente können im Dunkeln Beobachtungen erfassen und sind wesentlich weniger auf wolkenfreie Bedingungen angewiesen als optische Instrumente."
+        },
+        {
+            "question": "Was können Satellitenbeobachtungen über Gletscher zeigen?",
+            "answers": [
+                "Veränderungen ihrer Bewegung",
+                "Ihren Geschmack",
+                "Das genaue Alter jeder Schneeflocke",
+                "Ihre innere Temperatur überall"
+            ],
+            "correct": 0,
+            "fact": "Wiederholte Satellitenbeobachtungen können zeigen, wie schnell sich Gletscher und Eisströme bewegen und wie sich diese Muster im Laufe der Zeit verändern."
+        },
+        {
+            "question": "Was ist ein Eisschild?",
+            "answers": [
+                "Eine riesige Masse von Landeis, die ein großes Gebiet bedeckt",
+                "Eine Schicht Meerwasser",
+                "Eine Wolkenformation",
+                "Ein vulkanischer Lavastrom"
+            ],
+            "correct": 0,
+            "fact": "Die Eisschilde der Antarktis und Grönlands sind riesige Massen von Landeis, die den größten Teil des Süßwassereises der Erde enthalten."
+        },
+        {
+            "question": "Welche Art von Veränderung kann Satellitenradar auf einer Eisoberfläche erkennen?",
+            "answers": [
+                "Bewegung und Verformung",
+                "Nur Farbe",
+                "Nur Lufttemperatur",
+                "Nur das Alter des Eises"
+            ],
+            "correct": 0,
+            "fact": "Radarmessungen können genutzt werden, um Oberflächenbewegungen und Verformungen zu erkennen, darunter Veränderungen an Gletschern und Eisschilden."
+        },
+        {
+            "question": "Warum ist die Überwachung des antarktischen Eises für die Erdwissenschaft wichtig?",
+            "answers": [
+                "Sie hilft, Veränderungen in der Polarregion zu verfolgen",
+                "Sie bestimmt die Anzahl der Sterne in der Milchstraße",
+                "Sie misst die Atmosphäre des Jupiter",
+                "Sie ersetzt alle Klimamodelle"
+            ],
+            "correct": 0,
+            "fact": "Langfristige Beobachtungen des antarktischen Eises helfen Wissenschaftlern, Veränderungen in der Polarregion und deren weiterreichende Auswirkungen zu verstehen."
+        }
+    ],
+    "€24,000": [
+        {
+            "question": "Wofür steht der Name JUICE?",
+            "answers": [
+                "Jupiter Investigation of Comets and Exploration",
+                "Joint Universe Ice and Climate Explorer",
+                "Jupiter Icy Moons Explorer",
+                "Journey Into Cosmic Evolution"
+            ],
+            "correct": 2,
+            "fact": "JUICE ist auf dem Weg zum Jupiter-System, um den Gasriesen und seine eisigen Monde mit Ozeanen im Inneren zu untersuchen."
+        },
+        {
+            "question": "Welchen Planeten soll JUICE untersuchen?",
+            "answers": [
+                "Mars",
+                "Jupiter",
+                "Saturn",
+                "Venus"
+            ],
+            "correct": 1,
+            "fact": "JUICE ist der Jupiter Icy Moons Explorer der ESA und soll Jupiter sowie mehrere seiner großen eisigen Monde untersuchen."
+        },
+        {
+            "question": "Welcher dieser Monde ist einer der von JUICE untersuchten eisigen Monde?",
+            "answers": [
+                "Ganymed",
+                "Phobos",
+                "Titan",
+                "Triton"
+            ],
+            "correct": 0,
+            "fact": "JUICE wird Ganymed detailliert untersuchen und während seiner Mission auch Beobachtungen von Europa und Kallisto durchführen."
+        },
+        {
+            "question": "Was ist an den eisigen Monden des Jupiter besonders interessant?",
+            "answers": [
+                "Einige könnten unterirdische Ozeane enthalten",
+                "Sie haben alle die Atmosphäre der Erde",
+                "Sie sind heißer als die Sonne",
+                "Sie bestehen vollständig aus Metall"
+            ],
+            "correct": 0,
+            "fact": "Beobachtungen deuten darauf hin, dass einige der eisigen Monde des Jupiter Ozeane unter ihren gefrorenen Oberflächen enthalten."
+        },
+        {
+            "question": "Welcher Mond soll das Hauptziel der Umlaufmission von JUICE werden?",
+            "answers": [
+                "Ganymed",
+                "Io",
+                "Europa",
+                "Amalthea"
+            ],
+            "correct": 0,
+            "fact": "JUICE soll in eine Umlaufbahn um Ganymed eintreten und wäre damit die erste Raumsonde, die einen anderen Mond als den Erdmond umkreist."
+        },
+        {
+            "question": "Warum sind eisige Monde bei der Suche nach potenziell bewohnbaren Umgebungen interessant?",
+            "answers": [
+                "Sie könnten unter ihrem Eis flüssiges Wasser haben",
+                "Sie liegen alle nahe an der Sonne",
+                "Sie haben die Kontinente der Erde",
+                "Sie bestehen aus reinem Sauerstoff"
+            ],
+            "correct": 0,
+            "fact": "Flüssiges Wasser ist einer der Bestandteile, die Wissenschaftler bei der Untersuchung von Umgebungen für wichtig halten, in denen möglicherweise eine Form von Leben existieren könnte."
+        }
+    ],
+    "€44,000": [
+        {
+            "question": "Welche ESA-JAXA-Mission nutzt auf ihrem Weg zum Merkur eine komplexe Reihe von Vorbeiflügen an Planeten?",
+            "answers": [
+                "Euclid",
+                "Sentinel-2",
+                "BepiColombo",
+                "Philae"
+            ],
+            "correct": 2,
+            "fact": "Zum Merkur zu gelangen ist überraschend schwierig. Ein Raumfahrzeug muss viel Umlaufenergie verlieren, daher nutzt BepiColombo Vorbeiflüge als sorgfältig geplante kosmische Steuerungsmanöver."
+        },
+        {
+            "question": "Welcher Planet ist das Hauptziel von BepiColombo?",
+            "answers": [
+                "Merkur",
+                "Mars",
+                "Jupiter",
+                "Venus"
+            ],
+            "correct": 0,
+            "fact": "BepiColombo ist eine gemeinsame Mission von ESA und JAXA zur Untersuchung des Merkur, des innersten Planeten des Sonnensystems."
+        },
+        {
+            "question": "Warum ist es für ein Raumfahrzeug von der Erde besonders schwierig, den Merkur zu erreichen?",
+            "answers": [
+                "Es muss Umlaufenergie verlieren, um näher zur Sonne zu gelangen",
+                "Merkur hat eine dichte Atmosphäre",
+                "Merkur liegt außerhalb des Sonnensystems",
+                "Er hat Ozeane, die Raumfahrzeuge blockieren"
+            ],
+            "correct": 0,
+            "fact": "Ein von der Erde startendes Raumfahrzeug muss erhebliche Umlaufenergie abbauen, um in eine Umlaufbahn nahe der Sonne zu gelangen, wodurch Merkur zu einem anspruchsvollen Ziel wird."
+        },
+        {
+            "question": "Wann wurde die ESA gegründet?",
+            "answers": [
+                "1975",
+                "1965",
+                "1970",
+                "1985"
+            ],
+            "correct": 0,
+            "fact": "JAXA ist Japans nationale Raumfahrtagentur und Forschungsorganisation. BepiColombo ist eine Zusammenarbeit zwischen JAXA und ESA."
+        },
+        {
+            "question": "Wo befindet sich der Hauptsitz der ESA?",
+            "answers": [
+                "Paris, Frankreich",
+                "Berlin, Deutschland",
+                "Rom, Italien",
+                "London, Vereinigtes Königreich"
+            ],
+            "correct": 0,
+            "fact": "Die ESA hat 23 Mitgliedstaaten und sieben wichtige Einrichtungen in Europa; ihr Hauptsitz befindet sich im Zentrum von Paris."
+        },
+        {
+            "question": "Welche ist die größte Einrichtung der ESA?",
+            "answers": [
+                "ESRIN, Italien",
+                "ESTEC, Niederlande",
+                "ESOC, Deutschland",
+                "ESA-Hauptsitz, Frankreich"
+            ],
+            "correct": 1,
+            "fact": "ESTEC ist das Europäische Zentrum für Weltraumforschung und -technologie, das technische Herz der ESA. Dort entstehen die meisten ESA-Projekte und werden durch die verschiedenen Entwicklungsphasen begleitet."
+        }
+    ]
+}

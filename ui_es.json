@@ -1,0 +1,22 @@
+{
+  "subtitle": "De la observación de la Tierra al Sistema Solar exterior",
+  "questions": "PREGUNTAS",
+  "start": "INICIAR LA MISIÓN",
+  "controls": "F11: pantalla completa   •   Esc: salir de pantalla completa   •   R: reiniciar",
+  "ladder": "ESCALA DE PREMIOS",
+  "question": "Pregunta {n} de {total}  •  {prize}",
+  "correct_answers": "Respuestas correctas: {correct}   •   Puntuación actual: {score}",
+  "correct": "¡CORRECTO!",
+  "wrong": "ESTA VEZ NO",
+  "answer_is": "La respuesta es {letter}: {answer}",
+  "fun_fact": "DATO CURIOSO",
+  "final": "VER RESULTADO FINAL",
+  "next": "SIGUIENTE PREGUNTA",
+  "complete": "MISIÓN COMPLETADA",
+  "correct_label": "RESPUESTAS CORRECTAS",
+  "score_label": "PUNTUACIÓN",
+  "again": "JUGAR DE NUEVO",
+  "exit": "SALIR",
+  "thanks": "¡Gracias por explorar la Tierra y el espacio con la ESA!",
+  "choose": "SELECCIONA EL IDIOMA"
+}

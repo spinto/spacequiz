@@ -1,0 +1,682 @@
+{
+  "€100": [
+    {
+      "question": "Que signifie ESA ?",
+      "answers": [
+        "Alliance scientifique européenne",
+        "Agence satellitaire européenne",
+        "Agence spatiale européenne",
+        "Association spatiale européenne"
+      ],
+      "correct": 2,
+      "fact": "L’ESA réunit les pays européens pour explorer l’espace et utiliser les technologies spatiales au bénéfice des populations sur Terre."
+    },
+    {
+      "question": "Entre autres, qu’étudie et explore principalement l’ESA ?",
+      "answers": [
+        "Les océans",
+        "L’espace et la Terre depuis l’espace",
+        "Le sous-sol terrestre",
+        "Toutes les réponses ci-dessus"
+      ],
+      "correct": 3,
+      "fact": "L’ESA développe et exploite des missions spatiales qui étudient la Terre, notamment la composition de son sous-sol et les structures de son intérieur, ainsi que le Système solaire et l’Univers au sens large."
+    },
+    {
+      "question": "Quel est l’objectif principal de l’ESA ?",
+      "answers": [
+        "Promouvoir la recherche, les technologies et les applications spatiales",
+        "Construire des avions",
+        "Exploiter des aéroports",
+        "Fournir des prévisions météorologiques"
+      ],
+      "correct": 0,
+      "fact": "L’objectif de l’ESA est de mettre en place et de promouvoir, à des fins exclusivement pacifiques, la coopération entre les États européens dans le domaine de la recherche et des technologies spatiales."
+    },
+    {
+      "question": "Qu’est-ce que l’ESA ?",
+      "answers": [
+        "Une université",
+        "Une organisation européenne",
+        "Une entreprise privée",
+        "Une compagnie aérienne"
+      ],
+      "correct": 0,
+      "fact": "ESA signifie Agence spatiale européenne, une organisation internationale dédiée au développement des capacités spatiales de l’Europe et à la poursuite d’investissements dans l’espace qui apportent des bénéfices aux citoyens d’Europe et du monde entier."
+    },
+    {
+      "question": "L’ESA travaille-t-elle avec des astronautes ?",
+      "answers": [
+        "Oui, avec des astronautes de l’ESA",
+        "Non, mais elle travaille avec des pilotes",
+        "Oui, mais uniquement avec des astronautes de la NASA",
+        "Non, elle travaille uniquement avec des scientifiques sur Terre"
+      ],
+      "correct": 0,
+      "fact": "L’ESA forme et entretient une équipe d’astronautes venant de différents pays européens pour explorer l’espace."
+    },
+    {
+      "question": "Lequel est un domaine d’activité de l’ESA ?",
+      "answers": [
+        "Technologies spatiales",
+        "Design de mode",
+        "Production alimentaire",
+        "Transport routier"
+      ],
+      "correct": 0,
+      "fact": "L’objectif de l’ESA est de mettre en place et de promouvoir, à des fins exclusivement pacifiques, la coopération entre les États européens dans le domaine de la recherche et des technologies spatiales."
+    }
+  ],
+  "€200": [
+    {
+      "question": "Quelle planète est connue sous le nom de « planète rouge » ?",
+      "answers": [
+        "Vénus",
+        "Mars",
+        "Jupiter",
+        "Mercure"
+      ],
+      "correct": 1,
+      "fact": "Mars paraît rougeâtre parce que les minéraux de fer présents dans son sol se sont oxydés, dans un processus comparable à la formation de la rouille."
+    },
+    {
+      "question": "Quelle est la plus grande planète de notre Système solaire ?",
+      "answers": [
+        "La Terre",
+        "Saturne",
+        "Jupiter",
+        "Neptune"
+      ],
+      "correct": 2,
+      "fact": "Jupiter est la plus grande planète du Système solaire, avec un diamètre plus de 11 fois supérieur à celui de la Terre."
+    },
+    {
+      "question": "Quelle planète est célèbre pour son système d’anneaux bien visible ?",
+      "answers": [
+        "Mars",
+        "Saturne",
+        "Vénus",
+        "Mercure"
+      ],
+      "correct": 1,
+      "fact": "Les anneaux de Saturne sont principalement constitués d’innombrables morceaux de glace et de matériaux rocheux."
+    },
+    {
+      "question": "Quelle planète est la plus proche du Soleil ?",
+      "answers": [
+        "Vénus",
+        "La Terre",
+        "Mercure",
+        "Mars"
+      ],
+      "correct": 2,
+      "fact": "Mercure est la planète la plus proche du Soleil et effectue une orbite autour de celui-ci en environ 88 jours terrestres."
+    },
+    {
+      "question": "Quelle planète est parfois appelée la planète sœur de la Terre en raison de sa taille similaire ?",
+      "answers": [
+        "Jupiter",
+        "Vénus",
+        "Mars",
+        "Neptune"
+      ],
+      "correct": 1,
+      "fact": "Vénus est similaire à la Terre par sa taille et sa composition, bien que son environnement de surface soit extrêmement différent."
+    },
+    {
+      "question": "Quel est le nom de la galaxie qui contient notre Système solaire ?",
+      "answers": [
+        "Andromède",
+        "La Voie lactée",
+        "La galaxie du Tourbillon",
+        "Le Sombrero"
+      ],
+      "correct": 1,
+      "fact": "Notre Système solaire se trouve dans la Voie lactée, une galaxie spirale barrée qui contient des centaines de milliards d’étoiles."
+    }
+  ],
+  "€500": [
+    {
+      "question": "À quoi servent principalement les satellites d’observation de la Terre ?",
+      "answers": [
+        "Uniquement aux prévisions météorologiques",
+        "À surveiller la Terre et les changements environnementaux",
+        "Uniquement à diffuser la télévision",
+        "À prendre des photos de vacances"
+      ],
+      "correct": 1,
+      "fact": "Les données satellitaires peuvent aider à surveiller les forêts, la banquise, la qualité de l’air, les inondations, les incendies, les cultures et de nombreux autres changements sur notre planète."
+    },
+    {
+      "question": "Que peuvent aider les satellites à surveiller sur de vastes zones ?",
+      "answers": [
+        "Les changements dans les forêts",
+        "Uniquement des maisons individuelles",
+        "Uniquement des grottes souterraines",
+        "Rien à la surface de la Terre"
+      ],
+      "correct": 0,
+      "fact": "Les satellites d’observation de la Terre peuvent surveiller à plusieurs reprises de vastes zones, ce qui aide à suivre les changements dans les forêts, l’agriculture et les écosystèmes."
+    },
+    {
+      "question": "Pourquoi les satellites sont-ils utiles pour observer les régions éloignées de la Terre ?",
+      "answers": [
+        "Ils peuvent observer de vastes zones depuis l’orbite",
+        "Ils n’ont jamais besoin d’instruments",
+        "Ils ne fonctionnent qu’au-dessus des villes",
+        "Ils remplacent toutes les mesures au sol"
+      ],
+      "correct": 0,
+      "fact": "Les satellites peuvent fournir des observations répétées de lieux difficiles ou dangereux à atteindre depuis le sol."
+    },
+    {
+      "question": "Quel événement les satellites d’observation de la Terre peuvent-ils aider à surveiller ?",
+      "answers": [
+        "Les inondations",
+        "Uniquement les éclipses solaires",
+        "Uniquement les pluies de météores",
+        "Uniquement les lancements spatiaux"
+      ],
+      "correct": 0,
+      "fact": "Les observations satellitaires peuvent aider à cartographier les zones inondées et à surveiller la situation avant, pendant et après les grandes inondations."
+    },
+    {
+      "question": "Lequel de ces phénomènes les observations satellitaires peuvent-elles aider à surveiller dans l’océan ?",
+      "answers": [
+        "L’étendue de la banquise",
+        "Uniquement les poissons dans des filets individuels",
+        "Uniquement les navires dans les ports",
+        "Rien"
+      ],
+      "correct": 0,
+      "fact": "Les observations satellitaires peuvent suivre la banquise ainsi que de nombreux autres changements à grande échelle dans les océans et les zones côtières."
+    },
+    {
+      "question": "Quel est l’un des avantages de l’observation de la Terre depuis l’espace ?",
+      "answers": [
+        "Une couverture mondiale ou régionale",
+        "Aucun traitement des données n’est nécessaire",
+        "Les nuages ne peuvent jamais affecter les observations",
+        "Chaque satellite voit tout"
+      ],
+      "correct": 0,
+      "fact": "Différents instruments satellitaires offrent une large couverture et des mesures répétées qui complètent les observations effectuées depuis le sol."
+    }
+  ],
+  "€1,200": [
+    {
+      "question": "Quel est le nom de la famille européenne de missions d’observation de la Terre utilisée par le programme Copernicus ?",
+      "answers": [
+        "Galileo",
+        "Sentinel",
+        "Voyager",
+        "Kepler"
+      ],
+      "correct": 1,
+      "fact": "Les missions Sentinel agissent comme différents ensembles d’yeux. Certaines utilisent le radar, tandis que d’autres observent les terres, les océans ou l’atmosphère."
+    },
+    {
+      "question": "Quelle mission Sentinel de Copernicus utilise le radar pour observer la Terre ?",
+      "answers": [
+        "Sentinel-1",
+        "Sentinel-6",
+        "Sentinel-5P",
+        "Sentinel-2"
+      ],
+      "correct": 0,
+      "fact": "Sentinel-1 utilise le radar, ce qui lui permet d’observer la surface de la Terre de jour comme de nuit et à travers la couverture nuageuse."
+    },
+    {
+      "question": "Quelle mission Sentinel est particulièrement associée à l’imagerie détaillée des surfaces terrestres ?",
+      "answers": [
+        "Sentinel-2",
+        "Sentinel-3",
+        "Sentinel-5P",
+        "Sentinel-6"
+      ],
+      "correct": 0,
+      "fact": "Sentinel-2 fournit des images optiques à haute résolution utiles pour étudier la végétation, l’occupation des sols et de nombreuses autres caractéristiques de la surface."
+    },
+    {
+      "question": "Qu’est-ce que Copernicus ?",
+      "answers": [
+        "Le programme européen d’observation de la Terre",
+        "Un rover martien",
+        "Un type de moteur-fusée",
+        "Un catalogue d’étoiles"
+      ],
+      "correct": 0,
+      "fact": "Copernicus est le programme d’observation de la Terre de l’Union européenne, qui utilise des satellites et d’autres sources pour fournir des informations environnementales."
+    },
+    {
+      "question": "Pourquoi les satellites radar peuvent-ils être utiles par temps nuageux ?",
+      "answers": [
+        "Le radar peut observer à travers les nuages dans de nombreuses situations",
+        "Le radar transforme les nuages en ciel dégagé",
+        "Le radar ne fonctionne qu’à l’intérieur",
+        "Le radar ne peut pas détecter la surface de la Terre"
+      ],
+      "correct": 0,
+      "fact": "Le radar à synthèse d’ouverture peut recueillir des observations indépendamment de la lumière du jour et peut souvent voir à travers la couverture nuageuse."
+    },
+    {
+      "question": "Quel type d’informations les missions Sentinel peuvent-elles fournir ?",
+      "answers": [
+        "Des observations des terres, des océans et de l’atmosphère",
+        "Uniquement des photographies d’astronautes",
+        "Uniquement des émissions radio",
+        "Uniquement des observations de la Lune"
+      ],
+      "correct": 0,
+      "fact": "Les différentes missions Sentinel sont conçues pour effectuer différentes mesures environnementales, couvrant les terres, les océans et l’atmosphère."
+    }
+  ],
+  "€2,000": [
+    {
+      "question": "Quelle mission de l’ESA a déposé l’atterrisseur Philae sur une comète en 2014 ?",
+      "answers": [
+        "Gaia",
+        "Rosetta",
+        "Euclid",
+        "Solar Orbiter"
+      ],
+      "correct": 1,
+      "fact": "Philae a rebondi après son premier contact avec la comète 67P. Dans la gravité extrêmement faible de la comète, même un léger rebond est devenu un voyage spectaculaire."
+    },
+    {
+      "question": "Quel était le nom de la comète visitée par la mission Rosetta de l’ESA ?",
+      "answers": [
+        "Halley",
+        "67P/Churyumov-Gerasimenko",
+        "Hale-Bopp",
+        "Shoemaker-Levy 9"
+      ],
+      "correct": 1,
+      "fact": "Rosetta a voyagé jusqu’à la comète 67P/Churyumov-Gerasimenko et l’a étudiée en l’orbite pendant plus de deux ans."
+    },
+    {
+      "question": "Qu’était Philae ?",
+      "answers": [
+        "Un atterrisseur",
+        "Un télescope",
+        "Une fusée",
+        "Un satellite de télécommunications"
+      ],
+      "correct": 0,
+      "fact": "Philae était un petit atterrisseur robotisé transporté jusqu’à la comète 67P par la sonde Rosetta de l’ESA."
+    },
+    {
+      "question": "Qu’est-ce qui rend particulièrement difficile l’atterrissage sur une petite comète ?",
+      "answers": [
+        "Une gravité très faible",
+        "Trop d’oxygène",
+        "Une atmosphère épaisse",
+        "De forts courants océaniques"
+      ],
+      "correct": 0,
+      "fact": "Une petite comète possède une gravité extrêmement faible, ce qui rend difficile pour un atterrisseur de rester fixé à sa surface."
+    },
+    {
+      "question": "Combien d’astronautes de l’ESA sont allés dans l’espace de septembre 2021 à septembre 2026 ?",
+      "answers": [
+        "6",
+        "20",
+        "1",
+        "Aucun"
+      ],
+      "correct": 0,
+      "fact": "Depuis la création de l’ESA, un total de 27 astronautes différents ont voyagé dans l’espace depuis différents pays européens."
+    },
+    {
+      "question": "Quel était un objectif scientifique majeur de Rosetta ?",
+      "answers": [
+        "Étudier une comète en détail",
+        "Faire atterrir des humains sur Mars",
+        "Cartographier les océans de la Terre",
+        "Observer les pôles du Soleil"
+      ],
+      "correct": 0,
+      "fact": "Rosetta a étudié la composition, la structure et l’activité de la comète 67P afin d’améliorer notre compréhension des comètes et du Système solaire primitif."
+    }
+  ],
+  "€4,000": [
+    {
+      "question": "La mission Gaia de l’ESA a été conçue pour créer une carte extrêmement précise de quoi ?",
+      "answers": [
+        "Des océans de la Terre",
+        "Des cratères de la Lune",
+        "De la galaxie de la Voie lactée",
+        "Des volcans de Mars"
+      ],
+      "correct": 2,
+      "fact": "En mesurant les positions et les mouvements des étoiles, Gaia aide les astronomes à étudier l’histoire et la structure de notre galaxie."
+    },
+    {
+      "question": "Que mesure Gaia avec une très grande précision pour les étoiles ?",
+      "answers": [
+        "Leurs positions et leurs mouvements",
+        "Leur odeur",
+        "Uniquement leur température de surface",
+        "Leurs prévisions météorologiques"
+      ],
+      "correct": 0,
+      "fact": "Les mesures astrométriques de Gaia révèlent la position des étoiles et la façon dont elles se déplacent dans la Voie lactée."
+    },
+    {
+      "question": "Quel type d’objet Gaia observe-t-elle principalement ?",
+      "answers": [
+        "Les étoiles",
+        "Les volcans",
+        "Les nuages",
+        "Les océans"
+      ],
+      "correct": 0,
+      "fact": "Gaia a été conçue pour observer un nombre immense d’étoiles et établir une image tridimensionnelle précise de la Voie lactée."
+    },
+    {
+      "question": "Pourquoi les mouvements stellaires sont-ils utiles aux astronomes ?",
+      "answers": [
+        "Ils révèlent des informations sur la structure et l’histoire de la Voie lactée",
+        "Ils prédisent la météo terrestre",
+        "Ils contrôlent directement les engins spatiaux",
+        "Ils créent de nouvelles étoiles"
+      ],
+      "correct": 0,
+      "fact": "Les positions et les mouvements des étoiles contiennent des indices sur la formation et l’évolution de notre galaxie."
+    },
+    {
+      "question": "Quelle partie du spectre électromagnétique Gaia utilise-t-elle pour ses principales mesures astrométriques ?",
+      "answers": [
+        "La lumière visible",
+        "Uniquement les ondes radio",
+        "Uniquement les rayons X",
+        "Uniquement les rayons gamma"
+      ],
+      "correct": 0,
+      "fact": "Gaia fonctionne principalement comme une mission d’astrométrie optique, mesurant les positions et les mouvements des étoiles avec une précision extraordinaire."
+    },
+    {
+      "question": "Que peut aider les scientifiques à étudier une carte détaillée de la Voie lactée ?",
+      "answers": [
+        "La formation et l’évolution de la galaxie",
+        "La météo exacte de demain",
+        "Les marées océaniques sur Jupiter",
+        "La couleur des nuages terrestres"
+      ],
+      "correct": 0,
+      "fact": "Une carte stellaire précise aide les chercheurs à reconstituer la structure, la dynamique et l’histoire de notre galaxie."
+    }
+  ],
+  "€8,000": [
+    {
+      "question": "Quelle mission dirigée par l’ESA étudie le Soleil et est conçue pour observer ses régions polaires ?",
+      "answers": [
+        "Solar Orbiter",
+        "JUICE",
+        "Hera",
+        "BepiColombo"
+      ],
+      "correct": 0,
+      "fact": "Les pôles du Soleil sont difficiles à voir depuis la Terre. Solar Orbiter utilise des survols planétaires pour incliner son orbite et obtenir une meilleure vue."
+    },
+    {
+      "question": "Qu’est-ce que Solar Orbiter est conçue pour étudier ?",
+      "answers": [
+        "Le Soleil",
+        "Les lunes de Jupiter",
+        "Uniquement les comètes",
+        "Uniquement les glaciers terrestres"
+      ],
+      "correct": 0,
+      "fact": "Solar Orbiter étudie le Soleil et le vent solaire, aidant les scientifiques à comprendre le fonctionnement de notre étoile."
+    },
+    {
+      "question": "Pourquoi Solar Orbiter utilise-t-elle des survols planétaires ?",
+      "answers": [
+        "Pour modifier et incliner son orbite",
+        "Pour se ravitailler en lumière solaire",
+        "Pour atterrir sur une planète",
+        "Pour recueillir des roches sur Terre"
+      ],
+      "correct": 0,
+      "fact": "Les assistances gravitationnelles des planètes peuvent modifier la trajectoire d’un engin spatial et aider Solar Orbiter à atteindre une orbite à inclinaison plus élevée."
+    },
+    {
+      "question": "Qu’est-ce que le vent solaire ?",
+      "answers": [
+        "Un flux de particules chargées provenant du Soleil",
+        "Le vent dans l’atmosphère terrestre",
+        "Un courant d’eau sur Mars",
+        "Un anneau autour de Saturne"
+      ],
+      "correct": 0,
+      "fact": "Le vent solaire est un flux continu de particules chargées qui s’échappent de l’atmosphère externe du Soleil."
+    },
+    {
+      "question": "Quelle caractéristique du Soleil est particulièrement importante pour comprendre son activité magnétique ?",
+      "answers": [
+        "Son champ magnétique",
+        "Ses anneaux",
+        "Ses océans",
+        "Sa surface solide"
+      ],
+      "correct": 0,
+      "fact": "Le champ magnétique du Soleil est à l’origine de nombreuses formes d’activité solaire, notamment les taches solaires et les éruptions solaires."
+    },
+    {
+      "question": "Qu’est-ce qui rend difficile l’observation des régions polaires du Soleil depuis la Terre ?",
+      "answers": [
+        "La géométrie d’observation",
+        "La Lune les bloque chaque jour",
+        "Le Soleil n’a pas de pôles",
+        "Elles se trouvent derrière Saturne"
+      ],
+      "correct": 0,
+      "fact": "Depuis le point de vue habituel de la Terre, les pôles du Soleil sont vus sous un angle très faible ; un engin spatial doté d’une orbite inclinée peut donc offrir une nouvelle perspective précieuse."
+    }
+  ],
+  "€16,000": [
+    {
+      "question": "Que peuvent détecter les satellites Copernicus Sentinel en Antarctique ?",
+      "answers": [
+        "Des dinosaures marchant sous la glace",
+        "Des changements dans l’épaisseur et le mouvement de la glace",
+        "Des messages radio extraterrestres",
+        "Des volcans sur Mars"
+      ],
+      "correct": 1,
+      "fact": "Les satellites radar peuvent observer la glace même à travers les nuages et pendant la longue nuit polaire, ce qui en fait des outils précieux pour suivre les changements."
+    },
+    {
+      "question": "Pourquoi le radar est-il particulièrement utile pour observer l’Antarctique ?",
+      "answers": [
+        "Il peut fonctionner sans lumière du Soleil et à travers la couverture nuageuse",
+        "Il fait fondre la glace",
+        "Il ne fonctionne qu’à midi",
+        "Il a toujours besoin d’un ciel dégagé"
+      ],
+      "correct": 0,
+      "fact": "Les instruments radar peuvent recueillir des observations dans l’obscurité et dépendent beaucoup moins de conditions sans nuages que les instruments optiques."
+    },
+    {
+      "question": "Que peuvent révéler les observations satellitaires sur les glaciers ?",
+      "answers": [
+        "Les changements dans leur mouvement",
+        "Leur goût",
+        "L’âge exact de chaque flocon de neige",
+        "Leur température interne partout"
+      ],
+      "correct": 0,
+      "fact": "Des observations satellitaires répétées peuvent montrer à quelle vitesse les glaciers et les courants de glace se déplacent et comment ces mouvements évoluent au fil du temps."
+    },
+    {
+      "question": "Qu’est-ce qu’une calotte glaciaire ?",
+      "answers": [
+        "Une vaste masse de glace terrestre couvrant une grande superficie",
+        "Une couche d’eau de mer",
+        "Une formation nuageuse",
+        "Une coulée de lave volcanique"
+      ],
+      "correct": 0,
+      "fact": "Les calottes glaciaires de l’Antarctique et du Groenland sont d’immenses masses de glace terrestre qui contiennent la majeure partie de la glace d’eau douce de la Terre."
+    },
+    {
+      "question": "Quel type de changement un radar satellitaire peut-il détecter à la surface de la glace ?",
+      "answers": [
+        "Le mouvement et la déformation",
+        "Uniquement la couleur",
+        "Uniquement la température de l’air",
+        "Uniquement l’âge de la glace"
+      ],
+      "correct": 0,
+      "fact": "Les mesures radar peuvent être utilisées pour détecter les mouvements et les déformations de surface, notamment les changements dans les glaciers et les calottes glaciaires."
+    },
+    {
+      "question": "Pourquoi est-il important pour les sciences de la Terre de surveiller la glace de l’Antarctique ?",
+      "answers": [
+        "Cela aide à suivre les changements dans l’environnement polaire",
+        "Cela détermine le nombre d’étoiles dans la Voie lactée",
+        "Cela mesure l’atmosphère de Jupiter",
+        "Cela remplace tous les modèles climatiques"
+      ],
+      "correct": 0,
+      "fact": "Les observations à long terme de la glace antarctique aident les scientifiques à comprendre les changements dans l’environnement polaire et leurs effets à plus grande échelle."
+    }
+  ],
+  "€24,000": [
+    {
+      "question": "Que signifie le nom JUICE ?",
+      "answers": [
+        "Jupiter Investigation of Comets and Exploration",
+        "Joint Universe Ice and Climate Explorer",
+        "Jupiter Icy Moons Explorer",
+        "Journey Into Cosmic Evolution"
+      ],
+      "correct": 2,
+      "fact": "JUICE voyage vers le système de Jupiter pour étudier la planète géante et ses lunes glacées abritant des océans."
+    },
+    {
+      "question": "Quelle planète JUICE voyage-t-elle étudier ?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturne",
+        "Vénus"
+      ],
+      "correct": 1,
+      "fact": "JUICE est l’explorateur des lunes glacées de Jupiter de l’ESA et est conçu pour étudier Jupiter et plusieurs de ses grandes lunes glacées."
+    },
+    {
+      "question": "Laquelle de ces lunes glacées est étudiée par JUICE ?",
+      "answers": [
+        "Ganymède",
+        "Phobos",
+        "Titan",
+        "Triton"
+      ],
+      "correct": 0,
+      "fact": "JUICE étudiera Ganymède en détail et effectuera également des observations d’Europe et de Callisto au cours de sa mission."
+    },
+    {
+      "question": "Qu’est-ce qui est particulièrement intéressant à propos des lunes glacées de Jupiter ?",
+      "answers": [
+        "Certaines pourraient contenir des océans souterrains",
+        "Elles ont toutes l’atmosphère de la Terre",
+        "Elles sont plus chaudes que le Soleil",
+        "Elles sont entièrement constituées de métal"
+      ],
+      "correct": 0,
+      "fact": "Les données disponibles indiquent que certaines des lunes glacées de Jupiter contiennent des océans sous leur surface gelée."
+    },
+    {
+      "question": "Quelle lune doit devenir la principale cible de la mission orbitale de JUICE ?",
+      "answers": [
+        "Ganymède",
+        "Io",
+        "Europe",
+        "Amalthée"
+      ],
+      "correct": 0,
+      "fact": "JUICE doit se mettre en orbite autour de Ganymède, ce qui en fera le premier engin spatial à se mettre en orbite autour d’une lune autre que celle de la Terre."
+    },
+    {
+      "question": "Pourquoi les lunes glacées sont-elles intéressantes dans la recherche d’environnements potentiellement habitables ?",
+      "answers": [
+        "Elles pourraient contenir de l’eau liquide sous leur glace",
+        "Elles sont toutes proches du Soleil",
+        "Elles possèdent les continents de la Terre",
+        "Elles sont constituées d’oxygène pur"
+      ],
+      "correct": 0,
+      "fact": "L’eau liquide est l’un des ingrédients que les scientifiques considèrent comme importants lorsqu’ils étudient des environnements susceptibles d’abriter une forme de vie."
+    }
+  ],
+  "€44,000": [
+    {
+      "question": "Quelle mission ESA-JAXA utilise une série complexe de survols planétaires lors de son voyage vers Mercure ?",
+      "answers": [
+        "Euclid",
+        "Sentinel-2",
+        "BepiColombo",
+        "Philae"
+      ],
+      "correct": 2,
+      "fact": "Atteindre Mercure est étonnamment difficile. Un engin spatial doit perdre une grande quantité d’énergie orbitale ; BepiColombo utilise donc des survols comme des manœuvres de guidage cosmiques soigneusement planifiées."
+    },
+    {
+      "question": "Quelle planète est la destination principale de BepiColombo ?",
+      "answers": [
+        "Mercure",
+        "Mars",
+        "Jupiter",
+        "Vénus"
+      ],
+      "correct": 0,
+      "fact": "BepiColombo est une mission conjointe de l’ESA et de la JAXA conçue pour étudier Mercure, la planète la plus proche du Soleil."
+    },
+    {
+      "question": "Pourquoi atteindre Mercure est-il particulièrement difficile pour un engin spatial lancé depuis la Terre ?",
+      "answers": [
+        "Il doit perdre de l’énergie orbitale pour se rapprocher du Soleil",
+        "Mercure possède une atmosphère épaisse",
+        "Mercure est en dehors du Système solaire",
+        "Elle possède des océans qui bloquent les engins spatiaux"
+      ],
+      "correct": 0,
+      "fact": "Un engin spatial voyageant depuis la Terre doit perdre une quantité importante d’énergie orbitale pour se placer sur une orbite proche du Soleil, ce qui fait de Mercure une destination exigeante."
+    },
+    {
+      "question": "Quand l’ESA a-t-elle été fondée ?",
+      "answers": [
+        "1975",
+        "1965",
+        "1970",
+        "1985"
+      ],
+      "correct": 0,
+      "fact": "La JAXA est l’agence spatiale nationale et l’organisme de recherche du Japon. BepiColombo est une collaboration entre la JAXA et l’ESA."
+    },
+    {
+      "question": "Où se trouve le siège de l’ESA ?",
+      "answers": [
+        "Paris, France",
+        "Berlin, Allemagne",
+        "Rome, Italie",
+        "Londres, Royaume-Uni"
+      ],
+      "correct": 0,
+      "fact": "L’ESA compte 23 États membres et sept principaux établissements en Europe, son siège étant situé au centre de Paris."
+    },
+    {
+      "question": "Quel est le plus grand établissement de l’ESA ?",
+      "answers": [
+        "ESRIN, Italie",
+        "ESTEC, aux Pays-Bas",
+        "ESOC, Allemagne",
+        "Siège de l’ESA, France"
+      ],
+      "correct": 1,
+      "fact": "ESTEC est le Centre européen de recherche et de technologie spatiales, le cœur technique de l’ESA, où la plupart des projets de l’ESA voient le jour et sont accompagnés à travers les différentes phases de leur développement."
+    }
+  ]
+}
